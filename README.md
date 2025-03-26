@@ -4,6 +4,8 @@ This is my first readme. Making my way into cloud eng 😶‍🌫️
 
 Let's goooooooooooo boiiiiii
 
+holy mother it works ive pushed my first commit into github, not just locally :OOOOOOOOO
+
 <!--
 **yaoiboy5/yaoiboy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

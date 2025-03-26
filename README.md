@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This is my first readme. Making my way into cloud eng 😶‍🌫️
+
+Let's goooooooooooo boiiiiii
+
 <!--
 **yaoiboy5/yaoiboy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
